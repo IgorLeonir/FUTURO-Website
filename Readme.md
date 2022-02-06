@@ -1,3 +1,3 @@
-# Github
+# FUTURO WEBSITE
 
-- Git init
+HTML, CSS AND JS BASED WEBSITE
